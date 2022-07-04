@@ -53,7 +53,7 @@ Para rodar esse projeto localmente é necessario node em sua versão mais recent
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Exemplo de uso
 
 ![2022-07-04-17-20-40](https://user-images.githubusercontent.com/77953986/177213466-c736a8b3-753e-4190-b297-74086821ae95.gif)
 
@@ -62,7 +62,7 @@ Para rodar esse projeto localmente é necessario node em sua versão mais recent
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Funções
 
 - [ ] Visualizar a lista de tarefas 
 - [ ] Criar uma nova tarefa 
@@ -74,7 +74,7 @@ Para rodar esse projeto localmente é necessario node em sua versão mais recent
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Matheus Moura - [@twitter_handle](https://twitter.com/Matheus08519402) - matheusmoura28974@gmail.com
 
