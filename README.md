@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/matheusmoura0/FullStack-Todo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/779206258082185217/993599927437496430/clipboard.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Projeto To do List FullStack</h3>
@@ -17,43 +17,7 @@
     ·  </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Projeto desenvolvido como desafio técnico para a blitz de carrera da Trybe.</a>
-      <ul>
-        <li><a href="#built-with">Construido com</a>
-            <a href="https://reactjs.org/"> React </a>
-        </li>
-        
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Começando</a>
-      <ul>
-        <li><a href="#prerequisites">Pré requisitos: </a></li>
-        <li><a href="#installation">Instalação</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-
 <p> Projeto de lista de afazeres desenvolvido em react com banco de dados</p>
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -64,7 +28,7 @@ Para rodar esse projeto localmente é necessario node em sua versão mais recent
 
 
 
-### Installation
+### instalação
 
 1. clone o repositorio para sua maquina local
    ```sh
